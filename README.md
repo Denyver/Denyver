@@ -29,4 +29,23 @@ Sou apaixonado por tecnologia, design e RPG, e estou construindo projetos pessoa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="http
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 Estatísticas  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Denyver&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyver&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+### 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/denyverfrancisco)  
+- 📷 [Instagram](https://www.instagram.com/dev.denyver)  
+- ✉️ Email: **deny.fdasilva@hotmail.com**
