@@ -16,7 +16,6 @@ Sou apaixonado por tecnologia, design e RPG, e estou construindo projetos pessoa
 <p align="center">
   <img src="https://img.shields.io/badge/Projetos-Em andamento-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Estrelas-⭐%2002-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seguidores-002-green?style=for-the-badge"/>
 </p>
 
 ---
