@@ -1,7 +1,7 @@
 <h1 align="center">Denyver Francisco</h1>
 
 <p align="center">
-  <b>Desenvolvedor Web • UI/UX Designer • RPG Lover 🎲</b>
+  <b>Desenvolvedor Web • UI/UX Designer</b>
 </p>
 
 ---
