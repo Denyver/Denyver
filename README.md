@@ -1,36 +1,32 @@
-# 👋 Olá, eu sou o Deny!
+<h1 align="center">Denyver Francisco</h1>
 
-💻 Desenvolvedor Web | 🎨 Designer UI/UX | 🎲 Apaixonado por RPG  
-
----
-
-## 🚀 Sobre mim
-- 🌱 Atualmente estudando **Angular** e **Node.js**  
-- 🎯 Meta: Criar projetos profissionais para entrevistas de emprego  
-- 🕹️ Hobbies: Jogos, RPG, Sonic e design  
+<p align="center">
+  <b>Desenvolvedor Web • UI/UX Designer • RPG Lover 🎲</b>
+</p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+### 👨‍💻 Sobre mim
+Me chamo **Denyver Francisco**, tenho 23 anos e sou natural de Pernambuco.  
+Atualmente estudo **Desenvolvimento Web**, com foco em **Angular** e **Node.js**.  
+Sou apaixonado por tecnologia, design e RPG, e estou construindo projetos pessoais para entrevistas de emprego e evolução profissional.  
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Deny's GitHub stats](https://github-readme-stats.vercel.app/api?username=denyverfrancisco&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denyverfrancisco&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://img.shields.io/badge/Projetos-Em andamento-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Estrelas-⭐%2050-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seguidores-200-green?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/denyverfrancisco)  
-- 📷 [Instagram](https://www.instagram.com/dev.denyver)  
-- ✉️ Email: **deny.fdasilva@hotmail.com**
+### 🚀 Linguagens e Tecnologias  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="http
